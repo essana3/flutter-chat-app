@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "997327333785",
+    "project_id": "flutter1-chat-app",
+    "storage_bucket": "flutter1-chat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997327333785:android:c9c664c4b4c23ee5ba4b08",
+        "android_client_info": {
+          "package_name": "com.koussay.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997327333785-o5ol72cbv4i2n8dvq0l4lre3utmme7m7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYYt5oNFr1I5vwr3yPcIvC09vZvBLR6qQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997327333785-o5ol72cbv4i2n8dvq0l4lre3utmme7m7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
